@@ -1,0 +1,5 @@
+{
+  "name": "The Sovereign Agent",
+  "description": "A dual-interface cognitive architecture demonstration featuring a standard user chat and a 'Shadow Monitor' exposing internal logic states.",
+  "requestFramePermissions": []
+}
